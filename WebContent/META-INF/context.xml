@@ -1,0 +1,10 @@
+<Context>
+
+  <Resource name="jdbc/dbmeetUp" 
+  			auth="Container" type="javax.sql.DataSource"
+               maxActive="20" maxIdle="5" maxWait="10000"
+               username="root" password='123456' 
+               driverClassName="com.mysql.jdbc.Driver"
+               url="jdbc:mysql://127.0.0.1:3306/dbMeetup?useSSL=false"/>
+
+</Context>
