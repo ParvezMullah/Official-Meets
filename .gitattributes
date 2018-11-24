@@ -1,3 +1,2 @@
 * linguist-vendored
 *.rb linguist-language=Java
-jquery.js linguist-vendored=false
